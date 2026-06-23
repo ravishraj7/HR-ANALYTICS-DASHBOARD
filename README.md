@@ -117,5 +117,7 @@ Example: qithub.com/ravishraj7/HR-ANALYTICS-DASHBOARD/blob/main/Snapshot%20of%20
 
 Ravish Raj
 B.Tech (Data Science)
+
 Aspiring Data Analyst
+
 Skills: Power BI, SQL, Python, Excel, Tableau, Data Visualization
