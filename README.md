@@ -1,7 +1,9 @@
 📊 Project Title:
+
 HR Analytics Dashboard using Power BI
 
 📌 Project Overview
+
 The HR Analytics Dashboard is designed to analyze employee attrition trends and workforce demographics. It helps HR teams identify key factors influencing employee turnover and make data-driven decisions to improve employee retention.
 
 🎯 Objectives
@@ -12,11 +14,13 @@ Identify high-risk employee segments.
 Support strategic HR planning and retention initiatives.
 
 🛠️ Tools Used
+
 Power BI – Dashboard Development & Visualization
 Excel/CSV – Data Source
 DAX – Calculated Measures & KPIs
 
 📈 Key Performance Indicators (KPIs)
+
 KPI
 Value
 Total Employees
@@ -33,6 +37,7 @@ Average Years at Company
 7 Years
 
 📊 Dashboard Analysis
+
 1. Attrition by Education
 Life Sciences contributes the highest attrition (41%).
 Medical field follows with 32%.
@@ -83,6 +88,7 @@ Female Employees: 489
 Insight: The workforce has a higher proportion of male employees.
 
 🔍 Key Findings
+
 Attrition rate stands at 16.1%, indicating moderate employee turnover.
 Employees aged 26–35 years are most likely to leave.
 Lower salary ranges show the highest attrition.
@@ -91,6 +97,7 @@ Laboratory Technicians and Sales Executives have the highest turnover.
 Employees within their first few years at the company are more likely to resign.
 
 🚀 Business Recommendations
+
 Review compensation policies for lower salary bands.
 Develop retention programs for employees aged 26–35.
 Improve career growth opportunities for Laboratory Technicians and Sales Executives.
@@ -98,14 +105,16 @@ Conduct employee engagement surveys for high-risk departments.
 Strengthen onboarding and mentorship programs during the first 5 years.
 
 📷 Dashboard Preview
+
 HR Analytics Dashboard built in Power BI for employee attrition analysis and workforce insights.
 
 Screenshots / Demos
+
 Show what the dasboard looks like.
 Example: qithub.com/ravishraj7/HR-ANALYTICS-DASHBOARD/blob/main/Snapshot%20of%20the%20dashboard.png
 
-
 👨‍💻 Author
+
 Ravish Raj
 B.Tech (Data Science)
 Aspiring Data Analyst
